@@ -1,4 +1,4 @@
-XFDF-FoxPro
+XFDF-VFP
 ===========
 
-This class definition is used to create PDF files using the XFDF format.
+This Visual FoxPro class definition is used to create PDF files using the XFDF format.
