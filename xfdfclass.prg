@@ -29,7 +29,7 @@ DEFINE Class XFDF AS Custom
     ***
      * This is the Content-Length Header that tells 
      * the browser how big the file is. IE will not
-     * the file without this.
+     * display the file without this.
      *
      * @var string
      */
