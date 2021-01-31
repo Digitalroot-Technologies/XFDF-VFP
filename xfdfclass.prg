@@ -43,14 +43,14 @@ DEFINE Class XFDF AS Custom
     XMLHeader = ""
 
     ***
-     * This hold the XML that the user passes with addValue.
+     * This holds the XML that the user passes with addValue.
      *
      * @var string
      */
     XMLBody = ""
 
     ***
-     * This hold the XML that ends/closes the XFDF file.
+     * This holds the XML that ends/closes the XFDF file.
      *
      * @var string
      */
